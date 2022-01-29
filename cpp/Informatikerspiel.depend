@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1643466682 source:e:\code__blocks\projects\informatikerspiel\main.cpp
+	"main.h"
+	"Informatikerspiel.h"
+	"gms.h"
+	<windows.h>
+	<stdio.h>
+
+1643462661 e:\code__blocks\projects\informatikerspiel\main.h
+
+1643467146 e:\code__blocks\projects\informatikerspiel\informatikerspiel.h
+	<vector>
+	<algorithm>
+	"card.h"
+
+1643462372 e:\code__blocks\projects\informatikerspiel\card.h
+	"gms.h"
+
+1643460279 e:\code__blocks\projects\informatikerspiel\gms.h
+	<string>
+	<string.h>
+	<iostream>
+
