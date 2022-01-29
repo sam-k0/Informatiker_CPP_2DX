@@ -5,6 +5,9 @@ Now with 200% more memory leaks!
 
 A simple card game without card images made in C++ and GameMaker:Studio IDE
 
+This is more a proof of concept than a real game. I just wanted to try coding a game in C++, and because C++ GUIs are really tedious, I used GM:S for that.
+The whole thing could be enhanced by the actual use of card images but I am simply too lazy to put them in.
+
 # How it works
 
 - Game logic is coded in C++, exported as a DLL
