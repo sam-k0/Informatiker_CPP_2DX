@@ -1,2 +1,3 @@
 # Re-classify .yy files (for GMS 2 projects)
 *.gmx linguist-language=GML
+*.nsi linguist-language=GML
